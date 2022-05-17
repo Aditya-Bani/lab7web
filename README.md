@@ -53,7 +53,7 @@ http://localhost/lab7_php_dasar/php_dasar.php?nama=%20AdityaBani
 ## 5. Membuat Form Input
 ![img11!](assets/img/11.PNG)
 
-![img12!](assets/img/12.png)
+![img12!](assets/img/12.PNG)
 
 ### Operator
 ![img13!](assets/img/13.PNG)
