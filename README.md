@@ -1,6 +1,6 @@
-| Nama      | Fajar Agung Nugroho |
+| Nama      | Aditya Bani Isro |
 | ----------- | ----------- |
-| NIM     | 312010448       |
+| NIM     | 312010134       |
 | Kelas   | TI.20.A.1        |
 
 ## Langkah langkah praktikum 7
@@ -13,78 +13,77 @@ Install XAMPP dari https://www.apachefriends.org/download.html
 ## 2. Menjalankan web server
 Untuk menjalankan web server dari menu XAMPP Control
 
-![img1!](assets/img/2.PNG)
+![img2!](assets/img/2.PNG)
 Menjalankan XAMPP dengan cara klik tombol Start pada server Apache seperti gambar diatas
 
 ## 3. Memulai PHP
 Buat folder lab7_php_dasar pada root directory web server (\xampp\htdocs)
 
-![img2!](assets/img/3.PNG)
+![img3!](assets/img/3.PNG)
 
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/
 
+![img4](assets/img/4.PNG)
+
 ## 4. PHP Dasar
 Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat
 kode seperti berikut.
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>PHP Dasar</title>
-</head>
-<body>
-    <h1>Belajar PHP Dasar</h1>
-    <?php
-    echo "Hello World";
-    ?>
-    </body>
-    </html>
-```
+
+![img5](assets/img/5.PNG)
 
 Berikut hasil run PHP Dasar
-![img2!](assets/img/4.PNG)
-
-
+![img6!](assets/img/6.PNG)
 
 ### Variable PHP
 Menambahkan variable pada program.
 
-![img2!](assets/img/4/3.png)
+![img7!](assets/img/7.PNG)
 
-![img2!](assets/img/4/4.png)
+![img8!](assets/img/8.PNG)
 
 ### Predefine Variable `$_GET`
-![img2!](assets/img/4/5.png)
+![img9!](assets/img/9.PNG)
 
 Untuk mengaksesnya gunakan URL:
-http://localhost/lab7_php_dasar/php_dasar.php?nama=Fajar
+http://localhost/lab7_php_dasar/php_dasar.php?nama=%20AdityaBani
 
-![img2!](assets/img/4/6.png)
+![img10!](assets/img/10.PNG)
 
 ## 5. Membuat Form Input
-![img2!](assets/img/5/11.png)
+![img11!](assets/img/11.PNG)
 
-![img2!](assets/img/5/12.png)
+![img12!](assets/img/12.png)
 
 ### Operator
-![img2!](assets/img/5/13.png)
+![img13!](assets/img/13.PNG)
+
+![img14!](assets/img/14.PNG)
 
 ### Kondisi IF
-![img2!](assets/img/5/14.png)
+![img15!](assets/img/15.PNG)
+
+![img16!](assets/img/16.PNG)
 
 ### Kondisi Switch
-![img2!](assets/img/5/15.png)
+![img17!](assets/img/17.PNG)
+
+![img18](assets/img/18.PNG)
 
 ### Perulangan for
-![img2!](assets/img/5/16.png)
+![img19!](assets/img/19.PNG)
+
+![img20!](assets/img/20.PNG)
 
 ### Perulangan while
-![img2!](assets/img/5/17.png)
+![img21!](assets/img/21.PNG)
+
+![img22](assets/img/22.PNG)
 
 ### Perulangan do while
-![img2!](assets/img/5/18.png)
+![img23!](assets/img/23.PNG)
+
+![img24!](assets/img/24.PNG)
 
 ## Pertanyaan dan Tugas
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
